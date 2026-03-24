@@ -12,9 +12,9 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 </div>
 
