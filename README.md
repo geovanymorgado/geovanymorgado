@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 About me:<br>A student of Systems Analysis and Development who enjoys technology and is always learning new things in the field of programming.</p>
+<p align="left">👨‍💻 about me:<br>Student of Systems Analysis and Development, passionate about technology and constantly seeking to learn and master new tools.</p>
 
 ###
 
@@ -11,18 +11,13 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 </div>
+
 
 ###
 
@@ -42,7 +37,7 @@
 
 ###
 
-<p align="left">🎯 Objective:<br>My goal is to work with technology and continue to evolve in the field of systems development.</p>
+<p align="left">🎯 Objective:<br>My goal is to build a career in the technology field, continuously evolving and keeping up with new trends.</p>
 
 ###
 
